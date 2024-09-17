@@ -22,7 +22,7 @@ cargo build --release
 Move it to the path of your choice
 
 ```bash
-mv ./target/release/rostam /usr/bin
+sudo mv ./target/release/rostam /usr/bin
 ```
 
 ## Step 3
