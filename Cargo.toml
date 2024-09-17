@@ -1,0 +1,9 @@
+[package]
+name = "rostam"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+sudo = "0.6.0"
+inquire = "0.7.5"
